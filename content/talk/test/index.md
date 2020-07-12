@@ -55,8 +55,8 @@ slides: example
 #   Simply enter your event's folder or file name without extension.
 #   E.g. `events = ["internal-event"]` references `content/event/deep-learning/index.md`.
 #   Otherwise, set `events = []`.
-events:
-- uwo-workshop
+projects:
+- test-event
 
 # Enable math on this page?
 math: true
